@@ -1,12 +1,12 @@
 {
-  "name": "yourbot",
-  "version": "1.0.0",
+  "name": "Manju MD",
+  "version": "1.0.1",
   "description": "A WhatsApp bot created using Node.js",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name wabot",
-    "stop": "pm2 stop wabot",
-    "restart": "pm2 restart wabot"
+    "start": "pm2 start index.js --deep-monitoring --attach --name Manju MD",
+    "stop": "pm2 stop Manju MD",
+    "restart": "pm2 restart Manju MD"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "6.6.0",
